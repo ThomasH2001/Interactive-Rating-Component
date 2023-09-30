@@ -33,6 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ThomasH2001/Interactive-Rating-Component
+- Live Site URL: https://thomash2001.github.io/Interactive-Rating-Component/
 
 ## My process
 
